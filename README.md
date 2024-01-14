@@ -1,6 +1,6 @@
 # Tradingview-Webhooks
 
-A simple service converting tradingview webhooks into exchange orders. Once running, the end user is able to submit commands via http. This tool was made so I could concurrently test multiple alert/signal stratagies using live market data. We now offer a hosted version at [Fundingrate.io](https://fundingrate.io).
+A simple service converting tradingview webhooks into exchange orders. Once running, the end user is able to submit commands via http.
 
 ## Software Dependancies
 
